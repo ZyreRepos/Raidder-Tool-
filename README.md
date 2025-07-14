@@ -1,7 +1,3 @@
-# Raidder-Tool-
-
----
-
 # 💣 ZERO RAIDDER v1.3
 
 > ⚠️ **Warning:** This bot is for **educational/testing purposes only** in **private servers you own**.
