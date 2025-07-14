@@ -67,6 +67,3 @@ This is **not a toy**. Only use it:
 * For testing protections or learning.
 
 ---
-
-Let me know if you want it in `.md` format or want to change the branding 😈
-
